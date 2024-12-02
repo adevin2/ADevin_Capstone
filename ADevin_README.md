@@ -1,5 +1,7 @@
 **Product Count Prediction for OTC Drugs
+
 ***Project Description***
+
 Purpose: This is an app in which the user can input 1) a year and 2) product type: liquid, tablet, and cream. The app will output a predicted number of OTC Drug Products in that product type category in that year. 
 
 Potential Audience: Pharmaceutical companies, market analysts, distributors, startups for OTC products, students
