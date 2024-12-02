@@ -31,6 +31,7 @@ v1.0.0
 Alese Devin
 
 ***Project Contents Breakdown***
+
 The following repo contains all the contents for the project: https://github.com/adevin2/ADevin_Capstone.git
 - Initial Dataset - https://www.kaggle.com/datasets/maheshdadhich/us-healthcare-data/data?select=Drugs_product.csv
 - ADevin_Capstone.ipynb - This document breaks down the data cleanup in detail, then breaksdown the preliminary thought process for the app and explores different avenues for the app. 
