@@ -1,4 +1,4 @@
-**Product Count Prediction for OTC Drugs
+Product Count Prediction for OTC Drugs
 
 ***Project Description***
 
