@@ -1,3 +1,5 @@
+#alese devin capstone
+
 import pandas as pd
 import numpy as np
 import streamlit as st
@@ -121,5 +123,6 @@ st.plotly_chart(fig)
 if __name__ == '__main__':
     st.write("""
     This app predicts the number of over-the-counter (OTC) drug products for a given year based on historical data.
-    The model was trained using a linear regression model with log-transformed product counts.
+    The model was trained using a linear regression model with log-transformed product counts. 
+    This model was only trained on data from < 2017 - predictions after may not be as accurate.
     """)
